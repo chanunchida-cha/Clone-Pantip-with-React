@@ -1,0 +1,114 @@
+.container-post{
+  background-color: rgba(255, 255, 255, 0.493);
+  width: 320px;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  text-align: left;
+  font-family: 'Prompt', sans-serif;
+  box-shadow: 1px 1px 1px 1px rgba(136, 136, 136, 0.2);
+  margin-bottom: 50px;
+}
+.post-list{
+    background-color: #ffffffc7;
+    box-shadow: 1px 1px 1px 1px rgba(136, 136, 136, 0.2);
+    width: 300px;
+    align-items: center;
+    height:150px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Prompt', sans-serif;
+    padding: 10px;
+    margin-bottom: 10px;
+   
+}
+.app-topic{
+  text-align: left;
+  font-size:24px;
+  padding-top: 15px;
+  border-top: #3896FF;
+  text-decoration: none;
+
+}
+.app-content{
+  text-align: left;
+  font-size:20px;
+  padding-top: 10px;
+  height: 50px;
+  width: 500px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}
+.app-auther{
+  text-align: left;
+  font-size:16px;
+  
+}
+.app-btn{
+  float: right;
+  right: 700px;
+  
+  
+}
+.btn-edite{
+  margin-top: 5px;
+  font-size: 16px;
+  color: #3896FF;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  padding: 5px;
+  width: 50px;
+
+  
+
+}
+
+.btn-edite:hover{
+  font-size: 16px;
+  color: #77b5fc;
+  background-color: rgb(228, 228, 228);
+  border: none;
+  padding: 5px;
+}
+.btn-delete{
+  font-size: 16px;
+  color: #FF3838;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  padding: 5px;
+  
+  width: 50px;
+  margin: 5px;
+
+  
+
+}
+
+.btn-delete:hover{
+  font-size: 16px;
+  color: #ff9393;
+  background-color: rgb(228, 228, 228);
+  border: none;
+  padding: 5px;
+}
+.line{
+  margin-top: 50px;
+}
+.post-detail{
+  background-color: rgb(211, 211, 211);
+  height: 400px;
+  width: 100%;
+  display: block;
+  z-index: 9999;
+}
+.post{
+  text-decoration: none;
+  text-overflow: ellipsis; /* เพิ่ม ... จุดจุดจุดท้ายสุด */ 
+  display: block; overflow: hidden; 
+  white-space: nowrap; 
+  width: 255px; /* กำหนดความกว้าง */ 
+}

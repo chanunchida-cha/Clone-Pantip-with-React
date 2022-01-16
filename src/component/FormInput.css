@@ -1,0 +1,58 @@
+.username{
+    width: 450px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px rgba(136, 136, 136, 0.2);
+    font-family: 'Prompt', sans-serif;
+    font-size: 14px;
+
+}
+.topic{
+        width: 450px;
+        height: 40px;
+        border: none;
+        border-radius: 5px;
+        box-shadow: 1px 1px 1px 1px rgba(136, 136, 136, 0.2);
+        font-family: 'Prompt', sans-serif;
+}
+.content{
+    width: 450px;
+    
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px rgba(136, 136, 136, 0.2);
+    font-family: 'Prompt', sans-serif;
+}
+
+.btn-post{
+    border: none;
+    border-radius: 5px;
+    background-color: #93e6ff;
+    font-family: 'Prompt', sans-serif;
+    font-size: 18px;
+}
+.btn-post:hover{
+    border: none;
+    border-radius: 5px;
+    background-color: #c1f0ff;
+    font-family: 'Prompt', sans-serif;
+    font-size: 18px;
+}
+.btn-cancle{
+    border: none;
+    border-radius: 5px;
+    background-color: #575757;
+    font-family: 'Prompt', sans-serif;
+    font-size: 18px;
+}
+.btn-cancle:hover{
+    border: none;
+    border-radius: 5px;
+    background-color: #d3d3d3;
+    font-family: 'Prompt', sans-serif;
+    font-size: 18px;
+}
+.text{
+    align-items: left;
+}

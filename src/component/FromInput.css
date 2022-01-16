@@ -1,0 +1,55 @@
+.container{
+    background-color: rgba(255, 255, 255, 0.493);
+    width: 600px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    text-align: left;
+    font-family: 'Prompt', sans-serif;
+    box-shadow: 1px 1px 1px 1px rgba(136, 136, 136, 0.2);
+    margin-bottom: 50px;
+    
+}
+label{
+    font-size: 20px;
+    font-weight:300;
+
+}
+input{
+    width: 580px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 1px 1px 1px 1px rgba(136, 136, 136, 0.2);
+    align-self: center;
+    font-family: 'Prompt', sans-serif;
+    font-size: 18px;
+    padding-left: 10px;
+
+}
+textarea{
+    width: 580px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 1px 1px 1px 1px rgba(136, 136, 136, 0.2);
+    font-family: 'Prompt', sans-serif;
+    font-size: 18px;
+    padding-left: 10px;
+}
+.btn-post{
+    color: aliceblue;
+    background-color: #6e6eff ;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    width: 100px;
+    padding: 5px;
+    font-family: 'Prompt', sans-serif;
+    margin-top: 10px;
+    
+   
+}
+h1{
+    font-family: 'Prompt', sans-serif;
+}
